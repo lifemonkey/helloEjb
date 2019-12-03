@@ -1,4 +1,4 @@
-package com.hqd;
+package com.hqd.demo;
 
 import javax.ejb.Remote;
 

@@ -1,5 +1,7 @@
 package com.hqd;
 
+import com.hqd.demo.ReservationEJB;
+import com.hqd.demo.ReservationRemote;
 import org.junit.Before;
 import org.junit.Test;
 import org.slf4j.Logger;
